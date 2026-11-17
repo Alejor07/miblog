@@ -1,0 +1,23 @@
+
+title: Apuntes de IAW
+author: Alejo
+email: alejo@gmail.com
+description: >- 
+  Blog de prácticas del módulo Implantacion de Aplicaciones Web:servidores web,contenedores y despliegue.
+lang: es
+timezone: Europe/Madrid
+
+baseurl: "/miblog" 
+url: "https://Alejor07.github.io" 
+
+twitter_username: Alejor07
+github_username:  Alejor07
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
