@@ -23,4 +23,4 @@ curl -I http://localhost
 ```
 
 Si todo va bien, el navegador mostrara la pagina *It works!*
-![Logo apache](/assets/images/posts/apache/apache-logo.png)
+![Logo apache]('/assets/images/posts/apache/apache-logo.png')
